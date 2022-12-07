@@ -21,9 +21,13 @@ public class Main {
 
 
         //Hacer doble bucle for/for
+        String user = config[XPROD][CUSER];
+
+        //editado por Jose Antonio Quispe Torres
 
 
         //CLAVE: DESARROLLO
+
 
         //System.out.println(config[3][1]);
         //System.out.println(config[1][1]);
